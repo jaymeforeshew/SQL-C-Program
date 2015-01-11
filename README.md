@@ -1,5 +1,5 @@
-# SQL-C-Program
-C++ Program that takes in SQL Queries
+# SQL-Java-Program
+Java Program that takes in SQL Queries
 
 Assignment from my CS348 Databases Course
 
